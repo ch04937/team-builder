@@ -38,7 +38,7 @@ function Form() {
                     onChange={event => handleChange(event)}  />
                 </label>
                 <label>
-                    <button>Submit!</button>
+                    <button>Add Member</button>
                 </label>
 
             </form>
